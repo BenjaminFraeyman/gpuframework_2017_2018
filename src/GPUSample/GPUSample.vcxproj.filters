@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Main.cpp">
+      <Filter>GPGPU</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\ExamplesCL_C_API.cpp">
+      <Filter>GPGPU</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\ExamplesCL_CPP.cpp">
+      <Filter>GPGPU</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\Desaturate_CPU.cpp">
+      <Filter>GPGPU\Filters</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\Desaturate_GPU.cpp">
+      <Filter>GPGPU\Filters</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\GS_CPU.cpp">
+      <Filter>GPGPU\Filters</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\GS_GPU.cpp">
+      <Filter>GPGPU\Filters</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\Invert_CPU.cpp">
+      <Filter>GPGPU\Filters</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\Invert_GPU.cpp">
+      <Filter>GPGPU\Filters</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\GB_CPU.cpp">
+      <Filter>GPGPU\Filters</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\GB_GPU.cpp">
+      <Filter>GPGPU\Filters</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\GB_GPU_Global.cpp">
+      <Filter>GPGPU\Filters</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\Sharpen_CPU.cpp">
+      <Filter>GPGPU\Filters</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\Sharpen_GPU.cpp">
+      <Filter>GPGPU\Filters</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\Sharpen_GPU_Global.cpp">
+      <Filter>GPGPU\Filters</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\ED_CPU.cpp">
+      <Filter>GPGPU\Filters</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\ED_GPU.cpp">
+      <Filter>GPGPU\Filters</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\EdgeFilterGPU.cpp">
+      <Filter>GPGPU\Filters</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\ED_GPU_Global.cpp">
+      <Filter>GPGPU\Filters</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\Median_CPU.cpp">
+      <Filter>GPGPU\Filters</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\Median_GPU.cpp">
+      <Filter>GPGPU\Filters</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\H_CPU.cpp">
+      <Filter>GPGPU\Filters</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\H_GPU.cpp">
+      <Filter>GPGPU\Filters</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\Noise_GPU.cpp">
+      <Filter>GPGPU\Filters</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\ExamplesCL_C_API.h">
+      <Filter>GPGPU</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\ExamplesCL_CPP.h">
+      <Filter>GPGPU</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\CommonCL.h">
+      <Filter>GPGPU</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\Desaturate_CPU.h">
+      <Filter>GPGPU\Filters</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\Desaturate_GPU.h">
+      <Filter>GPGPU\Filters</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\GS_CPU.h">
+      <Filter>GPGPU\Filters</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\GS_GPU.h">
+      <Filter>GPGPU\Filters</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\Invert_CPU.h">
+      <Filter>GPGPU\Filters</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\Invert_GPU.h">
+      <Filter>GPGPU\Filters</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\GB_CPU.h">
+      <Filter>GPGPU\Filters</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\GB_GPU.h">
+      <Filter>GPGPU\Filters</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\GB_GPU_Global.h">
+      <Filter>GPGPU\Filters</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\Sharpen_CPU.h">
+      <Filter>GPGPU\Filters</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\Sharpen_GPU.h">
+      <Filter>GPGPU\Filters</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\Sharpen_GPU_Global.h">
+      <Filter>GPGPU\Filters</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\ED_CPU.h">
+      <Filter>GPGPU\Filters</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\ED_GPU.h">
+      <Filter>GPGPU\Filters</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\EdgeFilterGPU.h">
+      <Filter>GPGPU\Filters</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\ED_GPU_Global.h">
+      <Filter>GPGPU\Filters</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\Median_CPU.h">
+      <Filter>GPGPU\Filters</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\Median_GPU.h">
+      <Filter>GPGPU\Filters</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\H_CPU.h">
+      <Filter>GPGPU\Filters</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\H_GPU.h">
+      <Filter>GPGPU\Filters</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\Noise_GPU.h">
+      <Filter>GPGPU\Filters</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\Hist.cl">
+      <Filter>GPGPU\Filters</Filter>
+    </None>
+    <None Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\equalization.cl">
+      <Filter>GPGPU\Filters</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="GPGPU\Filters">
+      <UniqueIdentifier>{6CF63E63-E72E-3FD5-AECA-DBD1FA4A2CF1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GPGPU">
+      <UniqueIdentifier>{C78B0FF4-6D8F-3835-A56A-CE39320EE8DB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
