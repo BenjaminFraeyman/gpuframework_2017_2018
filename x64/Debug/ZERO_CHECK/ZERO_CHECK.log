@@ -1,0 +1,12 @@
+﻿  Checking Build System
+  CMake does not need to re-run because C:/Users/pollepel/Desktop/gpuframework2017-2018/CMakeFiles/generate.stamp is up-to-date.
+  CMake does not need to re-run because C:/Users/pollepel/Desktop/gpuframework2017-2018/src/CMakeFiles/generate.stamp is up-to-date.
+  CMake does not need to re-run because C:/Users/pollepel/Desktop/gpuframework2017-2018/src/Renderer/CMakeFiles/generate.stamp is up-to-date.
+  CMake is re-running because C:/Users/pollepel/Desktop/gpuframework2017-2018/src/GPUSample/CMakeFiles/generate.stamp is out-of-date.
+    the file 'C:/Users/pollepel/Desktop/gpuframework2017-2018/src/GPUSample/CMakeLists.txt'
+    is newer than 'C:/Users/pollepel/Desktop/gpuframework2017-2018/src/GPUSample/CMakeFiles/generate.stamp.depend'
+    result='-1'
+  -- Using x64 DLL folder for dynamic linked libraries
+  -- Configuring done
+  -- Generating done
+  -- Build files have been written to: C:/Users/pollepel/Desktop/gpuframework2017-2018
