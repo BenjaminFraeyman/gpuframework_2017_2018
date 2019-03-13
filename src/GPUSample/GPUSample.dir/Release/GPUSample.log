@@ -1,0 +1,159 @@
+﻿  Building Custom Rule C:/Users/pollepel/Desktop/gpuframework2017-2018/src/GPUSample/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/pollepel/Desktop/gpuframework2017-2018/src/GPUSample/CMakeFiles/generate.stamp is up-to-date.
+  Main.cpp
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(2559): warning C4996: 'clUnloadCompiler': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1225): note: see declaration of 'clUnloadCompiler'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(4581): warning C4996: 'clCreateImage2D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1191): note: see declaration of 'clCreateImage2D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(4782): warning C4996: 'clCreateFromGLTexture2D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl_gl.h(109): note: see declaration of 'clCreateFromGLTexture2D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(5014): warning C4996: 'clCreateImage3D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1201): note: see declaration of 'clCreateImage3D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(5104): warning C4996: 'clCreateFromGLTexture3D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl_gl.h(117): note: see declaration of 'clCreateFromGLTexture3D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(7953): warning C4996: 'clEnqueueMarker': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1213): note: see declaration of 'clEnqueueMarker'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(7968): warning C4996: 'clEnqueueWaitForEvents': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1217): note: see declaration of 'clEnqueueWaitForEvents'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(8105): warning C4996: 'clEnqueueBarrier': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1222): note: see declaration of 'clEnqueueBarrier'
+  ExamplesCL_C_API.cpp
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(2559): warning C4996: 'clUnloadCompiler': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1225): note: see declaration of 'clUnloadCompiler'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(4581): warning C4996: 'clCreateImage2D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1191): note: see declaration of 'clCreateImage2D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(4782): warning C4996: 'clCreateFromGLTexture2D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl_gl.h(109): note: see declaration of 'clCreateFromGLTexture2D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(5014): warning C4996: 'clCreateImage3D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1201): note: see declaration of 'clCreateImage3D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(5104): warning C4996: 'clCreateFromGLTexture3D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl_gl.h(117): note: see declaration of 'clCreateFromGLTexture3D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(7953): warning C4996: 'clEnqueueMarker': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1213): note: see declaration of 'clEnqueueMarker'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(7968): warning C4996: 'clEnqueueWaitForEvents': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1217): note: see declaration of 'clEnqueueWaitForEvents'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(8105): warning C4996: 'clEnqueueBarrier': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1222): note: see declaration of 'clEnqueueBarrier'
+  ExamplesCL_CPP.cpp
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(2559): warning C4996: 'clUnloadCompiler': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1225): note: see declaration of 'clUnloadCompiler'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(4581): warning C4996: 'clCreateImage2D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1191): note: see declaration of 'clCreateImage2D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(4782): warning C4996: 'clCreateFromGLTexture2D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl_gl.h(109): note: see declaration of 'clCreateFromGLTexture2D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(5014): warning C4996: 'clCreateImage3D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1201): note: see declaration of 'clCreateImage3D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(5104): warning C4996: 'clCreateFromGLTexture3D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl_gl.h(117): note: see declaration of 'clCreateFromGLTexture3D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(7953): warning C4996: 'clEnqueueMarker': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1213): note: see declaration of 'clEnqueueMarker'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(7968): warning C4996: 'clEnqueueWaitForEvents': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1217): note: see declaration of 'clEnqueueWaitForEvents'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(8105): warning C4996: 'clEnqueueBarrier': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1222): note: see declaration of 'clEnqueueBarrier'
+  Desaturate_CPU.cpp
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(2559): warning C4996: 'clUnloadCompiler': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1225): note: see declaration of 'clUnloadCompiler'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(4581): warning C4996: 'clCreateImage2D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1191): note: see declaration of 'clCreateImage2D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(4782): warning C4996: 'clCreateFromGLTexture2D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl_gl.h(109): note: see declaration of 'clCreateFromGLTexture2D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(5014): warning C4996: 'clCreateImage3D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1201): note: see declaration of 'clCreateImage3D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(5104): warning C4996: 'clCreateFromGLTexture3D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl_gl.h(117): note: see declaration of 'clCreateFromGLTexture3D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(7953): warning C4996: 'clEnqueueMarker': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1213): note: see declaration of 'clEnqueueMarker'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(7968): warning C4996: 'clEnqueueWaitForEvents': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1217): note: see declaration of 'clEnqueueWaitForEvents'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(8105): warning C4996: 'clEnqueueBarrier': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1222): note: see declaration of 'clEnqueueBarrier'
+  Desaturate_GPU.cpp
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(2559): warning C4996: 'clUnloadCompiler': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1225): note: see declaration of 'clUnloadCompiler'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(4581): warning C4996: 'clCreateImage2D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1191): note: see declaration of 'clCreateImage2D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(4782): warning C4996: 'clCreateFromGLTexture2D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl_gl.h(109): note: see declaration of 'clCreateFromGLTexture2D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(5014): warning C4996: 'clCreateImage3D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1201): note: see declaration of 'clCreateImage3D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(5104): warning C4996: 'clCreateFromGLTexture3D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl_gl.h(117): note: see declaration of 'clCreateFromGLTexture3D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(7953): warning C4996: 'clEnqueueMarker': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1213): note: see declaration of 'clEnqueueMarker'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(7968): warning C4996: 'clEnqueueWaitForEvents': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1217): note: see declaration of 'clEnqueueWaitForEvents'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(8105): warning C4996: 'clEnqueueBarrier': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1222): note: see declaration of 'clEnqueueBarrier'
+  GS_CPU.cpp
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(2559): warning C4996: 'clUnloadCompiler': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1225): note: see declaration of 'clUnloadCompiler'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(4581): warning C4996: 'clCreateImage2D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1191): note: see declaration of 'clCreateImage2D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(4782): warning C4996: 'clCreateFromGLTexture2D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl_gl.h(109): note: see declaration of 'clCreateFromGLTexture2D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(5014): warning C4996: 'clCreateImage3D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1201): note: see declaration of 'clCreateImage3D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(5104): warning C4996: 'clCreateFromGLTexture3D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl_gl.h(117): note: see declaration of 'clCreateFromGLTexture3D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(7953): warning C4996: 'clEnqueueMarker': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1213): note: see declaration of 'clEnqueueMarker'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(7968): warning C4996: 'clEnqueueWaitForEvents': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1217): note: see declaration of 'clEnqueueWaitForEvents'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(8105): warning C4996: 'clEnqueueBarrier': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1222): note: see declaration of 'clEnqueueBarrier'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Filters\GS_CPU.cpp(25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  GS_GPU.cpp
+  Invert_CPU.cpp
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(2559): warning C4996: 'clUnloadCompiler': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1225): note: see declaration of 'clUnloadCompiler'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(4581): warning C4996: 'clCreateImage2D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1191): note: see declaration of 'clCreateImage2D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(4782): warning C4996: 'clCreateFromGLTexture2D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl_gl.h(109): note: see declaration of 'clCreateFromGLTexture2D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(5014): warning C4996: 'clCreateImage3D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1201): note: see declaration of 'clCreateImage3D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(5104): warning C4996: 'clCreateFromGLTexture3D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl_gl.h(117): note: see declaration of 'clCreateFromGLTexture3D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(7953): warning C4996: 'clEnqueueMarker': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1213): note: see declaration of 'clEnqueueMarker'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(7968): warning C4996: 'clEnqueueWaitForEvents': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1217): note: see declaration of 'clEnqueueWaitForEvents'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(8105): warning C4996: 'clEnqueueBarrier': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1222): note: see declaration of 'clEnqueueBarrier'
+  Invert_GPU.cpp
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(2559): warning C4996: 'clUnloadCompiler': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1225): note: see declaration of 'clUnloadCompiler'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(4581): warning C4996: 'clCreateImage2D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1191): note: see declaration of 'clCreateImage2D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(4782): warning C4996: 'clCreateFromGLTexture2D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl_gl.h(109): note: see declaration of 'clCreateFromGLTexture2D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(5014): warning C4996: 'clCreateImage3D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1201): note: see declaration of 'clCreateImage3D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(5104): warning C4996: 'clCreateFromGLTexture3D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl_gl.h(117): note: see declaration of 'clCreateFromGLTexture3D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(7953): warning C4996: 'clEnqueueMarker': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1213): note: see declaration of 'clEnqueueMarker'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(7968): warning C4996: 'clEnqueueWaitForEvents': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1217): note: see declaration of 'clEnqueueWaitForEvents'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(8105): warning C4996: 'clEnqueueBarrier': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1222): note: see declaration of 'clEnqueueBarrier'
+  Noise_GPU.cpp
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(2559): warning C4996: 'clUnloadCompiler': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1225): note: see declaration of 'clUnloadCompiler'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(4581): warning C4996: 'clCreateImage2D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1191): note: see declaration of 'clCreateImage2D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(4782): warning C4996: 'clCreateFromGLTexture2D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl_gl.h(109): note: see declaration of 'clCreateFromGLTexture2D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(5014): warning C4996: 'clCreateImage3D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1201): note: see declaration of 'clCreateImage3D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(5104): warning C4996: 'clCreateFromGLTexture3D': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl_gl.h(117): note: see declaration of 'clCreateFromGLTexture3D'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(7953): warning C4996: 'clEnqueueMarker': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1213): note: see declaration of 'clEnqueueMarker'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(7968): warning C4996: 'clEnqueueWaitForEvents': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1217): note: see declaration of 'clEnqueueWaitForEvents'
+C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl2.hpp(8105): warning C4996: 'clEnqueueBarrier': was declared deprecated
+  C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\..\..\include\CL/cl.h(1222): note: see declaration of 'clEnqueueBarrier'
+  Generating Code...
+  GPUSample.vcxproj -> C:\Users\pollepel\Desktop\gpuframework2017-2018\src\GPUSample\Release\GPUSample.exe
