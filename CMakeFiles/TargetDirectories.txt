@@ -1,0 +1,4 @@
+C:/Users/pollepel/Desktop/gpuframework2017-2018/CMakeFiles/ALL_BUILD.dir
+C:/Users/pollepel/Desktop/gpuframework2017-2018/CMakeFiles/ZERO_CHECK.dir
+C:/Users/pollepel/Desktop/gpuframework2017-2018/src/Renderer/CMakeFiles/Renderer.dir
+C:/Users/pollepel/Desktop/gpuframework2017-2018/src/GPUSample/CMakeFiles/GPUSample.dir
