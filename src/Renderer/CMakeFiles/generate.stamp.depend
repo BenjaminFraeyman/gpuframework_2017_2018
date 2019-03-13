@@ -1,0 +1,17 @@
+# CMake generation dependency list for this directory.
+C:/Users/pollepel/Desktop/gpuframework2017-2018/src/Renderer/CMakeLists.txt
+C:/Users/pollepel/Desktop/gpuframework2017-2018/Modules/FindGLEW.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageMessage.cmake
+C:/Users/pollepel/Desktop/gpuframework2017-2018/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageMessage.cmake
+C:/Users/pollepel/Desktop/gpuframework2017-2018/Modules/FindOpenCL.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageMessage.cmake
+C:/Users/pollepel/Desktop/gpuframework2017-2018/Modules/FindGLFW.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageMessage.cmake
+C:/Users/pollepel/Desktop/gpuframework2017-2018/Modules/FindFreeImage.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageMessage.cmake

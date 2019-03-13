@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\Framework.cpp">
+      <Filter>Renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\FilterManager.cpp">
+      <Filter>Renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\Image.cpp">
+      <Filter>Renderer</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\Framework.h">
+      <Filter>Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\FilterManager.h">
+      <Filter>Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\Image.h">
+      <Filter>Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\EnumPreviewType.h">
+      <Filter>Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\OpenCL.h">
+      <Filter>Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\StructImagePreviewState.h">
+      <Filter>Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\ImageFilter.h">
+      <Filter>Renderer</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\pollepel\Desktop\gpuframework2017-2018\src\Renderer\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Renderer">
+      <UniqueIdentifier>{F7E677D2-42C5-3359-B683-9AD0132F56A2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
